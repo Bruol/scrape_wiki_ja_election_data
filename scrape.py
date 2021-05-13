@@ -69,29 +69,50 @@ def format_data(year,party,percentage,ldp_percentage,prefecture):
                 
 years = ["2017","2014","2012","2009","2005","2003","2000","1996"]
 
+link_list = []
+
+try:
+    with open('test.txt') as file:
+        for line in file:
+            link_list.append(line.split('\n')[0])
+except:
+    print("opening file did not work")
+
 prefecture_num = 1
 
 # initialize dictionary
-prefecture = {
-    prefecture_num :{
-    }
-}
+prefecture = {}
 
+for prefec in link_list:
+    prefecture[prefecture_num] = {}
+    print("\n\n\ngetting data from prefecture no. " + str(prefecture_num) + "\n")
+    district_num = 1
+    while True:
+        
+        print("         getting data from pref. no. {} district no. {}".format(prefecture_num,district_num) )
 
-for district_num in range(1,13):
-    prefecture[prefecture_num][district_num] = {}
-    
-    url = "https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E7%AC%AC{}%E5%8C%BA".format(district_num)
+        url = prefec.split('%AC1')[0] + "%AC" + str(district_num) + prefec.split('%AC1')[1]
 
-    page = requests.get(url)
+        page = requests.get(url)
 
-    soup = bs(page.content, 'html.parser')
+        if(page.status_code == 404):
+            break
 
+        soup = bs(page.content, 'html.parser')
+        
+        prefecture[prefecture_num][district_num] = {}
 
-    #select all tables on page
-    tables = soup.select('table')
+        #select all tables on page
+        tables = soup.select('table')
 
-    prefecture = find_correct_tables(tables,prefecture)
+        prefecture = find_correct_tables(tables,prefecture)
 
+        district_num += 1
 
-print(json.dumps(prefecture, sort_keys=False, indent=4))
+    prefecture_num += 1
+
+file = open('results.json', 'w')
+file.write(json.dumps(prefecture, sort_keys=False, indent=4))
+file.close
+
+print("\n\n\n successfully written fata to results.json \n\n Hoorayyy!!!")
