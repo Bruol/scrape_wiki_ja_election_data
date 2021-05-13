@@ -1,0 +1,1 @@
+ This is a webscraper, that gets data of japanese elections and populates a csv file with it
