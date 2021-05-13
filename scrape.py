@@ -116,3 +116,5 @@ file.write(json.dumps(prefecture, sort_keys=False, indent=4))
 file.close
 
 print("\n\n\n successfully written fata to results.json \n\n Hoorayyy!!!")
+
+quit()
