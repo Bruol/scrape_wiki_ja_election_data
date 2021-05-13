@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup as bs
-import time
+
 
 file = open('test.txt', 'a')
 
