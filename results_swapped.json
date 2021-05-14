@@ -528,21 +528,21 @@
                     "party": "\u516c\u660e\u515a",
                     "percentage": "50.13%"
                 },
-                "LDP": "49.87%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "48.52%"
                 },
-                "LDP": "11.64%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "43.09%"
                 },
-                "LDP": "6.53%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
@@ -783,7 +783,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "44.47%"
                 },
-                "LDP": "0.65%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
@@ -1601,7 +1601,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "44.12%"
                 },
-                "LDP": "8.18%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -1893,7 +1893,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "58.92%"
                 },
-                "LDP": "4.61%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -2616,14 +2616,14 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "44.15%"
                 },
-                "LDP": "5.30%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "53.64%"
                 },
-                "LDP": "1.26%"
+                "LDP": "0"
             }
         }
     },
@@ -2683,7 +2683,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "63.36%"
                 },
-                "LDP": "2.16%"
+                "LDP": "0"
             }
         },
         "2": {
@@ -2771,7 +2771,7 @@
                     "party": "\u307f\u3093\u306a\u306e\u515a",
                     "percentage": "95.30%"
                 },
-                "LDP": "4.70%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
@@ -3253,7 +3253,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "56.27%"
                 },
-                "LDP": "2.98%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -3543,14 +3543,14 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "48.06%"
                 },
-                "LDP": "7.83%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "35.62%"
                 },
-                "LDP": "11.99%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -3798,7 +3798,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "46.38%"
                 },
-                "LDP": "12.94%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
@@ -3956,14 +3956,14 @@
                     "party": "\u7121\u6240\u5c5e\u306e\u4f1a",
                     "percentage": "51.66%"
                 },
-                "LDP": "2.75%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "58.59%"
                 },
-                "LDP": "6.60%"
+                "LDP": "0"
             }
         },
         "14": {
@@ -4816,348 +4816,1450 @@
             "2017": {
                 "second-party": {
                     "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
-                    "percentage": "53.11%"
+                    "percentage": "40.69%"
                 },
-                "LDP": "46.89%"
+                "LDP": "39.41%"
             },
             "2014": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "42.87%"
+                    "percentage": "35.57%"
                 },
-                "LDP": "46.97%"
+                "LDP": "42.66%"
             },
             "2012": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.56%"
+                    "percentage": "28.91%"
                 },
-                "LDP": "44.07%"
+                "LDP": "29.31%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "60.15%"
+                    "percentage": "47.43%"
                 },
-                "LDP": "32.18%"
+                "LDP": "43.51%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.67%"
+                    "percentage": "36.92%"
                 },
-                "LDP": "42.85%"
+                "LDP": "54.58%"
             },
             "2003": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "51.08%"
+                    "percentage": "44.60%"
                 },
-                "LDP": "41.15%"
+                "LDP": "43.99%"
             },
             "2000": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.13%"
+                    "percentage": "41.25%"
                 },
-                "LDP": "43.16%"
+                "LDP": "40.09%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "39.34%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.39%"
                 },
-                "LDP": "42.66%"
+                "LDP": "39.19%"
             }
         },
         "2": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "51.60%"
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "37.06%"
                 },
-                "LDP": "43.10%"
+                "LDP": "45.90%"
             },
             "2014": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "42.90%"
+                    "percentage": "23.95%"
                 },
-                "LDP": "42.96%"
+                "LDP": "42.63%"
             },
             "2012": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "38.74%"
+                    "percentage": "24.72%"
                 },
-                "LDP": "45.52%"
+                "LDP": "32.35%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "52.26%"
+                    "percentage": "51.03%"
                 },
-                "LDP": "37.04%"
+                "LDP": "36.30%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "44.33%"
+                    "percentage": "39.17%"
                 },
-                "LDP": "49.68%"
+                "LDP": "50.94%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "25.79%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.98%"
                 },
-                "LDP": "43.93%"
+                "LDP": "42.22%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.09%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "41.89%"
                 },
-                "LDP": "39.74%"
+                "LDP": "38.67%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "38.54%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "44.73%"
                 },
-                "LDP": "40.77%"
+                "LDP": "34.75%"
             }
         },
         "3": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.15%"
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "38.18%"
                 },
-                "LDP": "49.12%"
+                "LDP": "43.58%"
             },
             "2014": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.13%"
+                    "percentage": "42.62%"
                 },
-                "LDP": "44.20%"
+                "LDP": "44.25%"
             },
             "2012": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "41.39%"
+                    "percentage": "41.26%"
                 },
-                "LDP": "50.16%"
+                "LDP": "41.95%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "66.03%"
+                    "percentage": "52.21%"
                 },
-                "LDP": "32.83%"
+                "LDP": "38.79%"
             },
             "2005": {
                 "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "32.82%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "41.39%"
                 },
-                "LDP": "50.14%"
+                "LDP": "50.73%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "36.16%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.30%"
                 },
-                "LDP": "55.91%"
+                "LDP": "43.94%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u81ea\u7531\u515a",
-                    "percentage": "26.26%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.70%"
                 },
-                "LDP": "51.15%"
+                "LDP": "33.14%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "29.89%"
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "29.81%"
                 },
-                "LDP": "36.03%"
+                "LDP": "32.19%"
             }
         },
         "4": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "56.27%"
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "23.24%"
                 },
-                "LDP": "43.73%"
+                "LDP": "50.08%"
             },
             "2014": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "44.85%"
+                    "percentage": "22.49%"
                 },
-                "LDP": "46.70%"
+                "LDP": "50.34%"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.15%"
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "18.30%"
                 },
-                "LDP": "42.59%"
+                "LDP": "39.37%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "62.51%"
+                    "percentage": "37.52%"
                 },
-                "LDP": "35.90%"
+                "LDP": "35.09%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "50.52%"
+                    "percentage": "33.66%"
                 },
-                "LDP": "41.34%"
+                "LDP": "46.71%"
             },
             "2003": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "53.45%"
+                    "percentage": "35.55%"
                 },
-                "LDP": "39.58%"
+                "LDP": "41.36%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u81ea\u7531\u515a",
-                    "percentage": "31.98%"
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "38.42%"
                 },
-                "LDP": "33.21%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
                     "party": "\u7121\u6240\u5c5e",
-                    "percentage": "30.48%"
+                    "percentage": "38.16%"
                 },
-                "LDP": "41.60%"
+                "LDP": "22.68%"
             }
         },
         "5": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "44.94%"
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "40.28%"
                 },
-                "LDP": "51.82%"
+                "LDP": "41.15%"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u751f\u6d3b\u306e\u515a",
-                    "percentage": "33.49%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "25.71%"
                 },
-                "LDP": "57.33%"
+                "LDP": "39.75%"
             },
             "2012": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "29.26%"
+                    "percentage": "23.52%"
                 },
-                "LDP": "45.73%"
+                "LDP": "30.54%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.11%"
+                    "percentage": "50.32%"
                 },
-                "LDP": "41.14%"
+                "LDP": "40.77%"
             },
             "2005": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "51.16%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "38.82%"
                 },
-                "LDP": "40.25%"
+                "LDP": "53.35%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.14%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "44.10%"
                 },
-                "LDP": "31.02%"
+                "LDP": "41.02%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "24.99%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.87%"
                 },
-                "LDP": "68.62%"
+                "LDP": "33.20%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u65b0\u9032\u515a",
-                    "percentage": "38.13%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "23.02%"
                 },
-                "LDP": "48.85%"
+                "LDP": "37.93%"
             }
         },
         "6": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.41%"
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "40.81%"
                 },
-                "LDP": "50.59%"
+                "LDP": "40.01%"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "39.55%"
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "35.37%"
                 },
-                "LDP": "52.70%"
+                "LDP": "44.10%"
             },
             "2012": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "37.15%"
+                    "percentage": "23.53%"
                 },
-                "LDP": "55.08%"
+                "LDP": "32.92%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "55.35%"
+                    "percentage": "56.36%"
                 },
-                "LDP": "39.74%"
+                "LDP": "33.27%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "50.17%"
+                    "percentage": "44.12%"
                 },
-                "LDP": "44.94%"
+                "LDP": "46.31%"
             },
             "2003": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "40.65%"
+                    "percentage": "52.20%"
                 },
-                "LDP": "29.27%"
+                "LDP": "31.17%"
             },
             "2000": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.26%"
+                    "percentage": "37.31%"
                 },
-                "LDP": "47.07%"
+                "LDP": "22.18%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "46.41%"
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "34.46%"
                 },
-                "LDP": "48.33%"
+                "LDP": "26.24%"
+            }
+        },
+        "7": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "50.52%"
+                },
+                "LDP": "36.80%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "44.61%"
+                },
+                "LDP": "35.66%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "38.25%"
+                },
+                "LDP": "29.97%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "61.26%"
+                },
+                "LDP": "29.07%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "42.12%"
+                },
+                "LDP": "48.91%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "43.06%"
+                },
+                "LDP": "36.03%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "35.71%"
+                },
+                "LDP": "33.51%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "26.44%"
+                },
+                "LDP": "30.19%"
+            }
+        },
+        "8": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "29.96%"
+                },
+                "LDP": "39.22%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.02%"
+                },
+                "LDP": "47.56%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "25.15%"
+                },
+                "LDP": "46.93%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
+                    "percentage": "39.52%"
+                },
+                "LDP": "49.95%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.26%"
+                },
+                "LDP": "57.26%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "31.43%"
+                },
+                "LDP": "54.98%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "31.84%"
+                },
+                "LDP": "43.66%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "29.53%"
+                },
+                "LDP": "32.67%"
+            }
+        },
+        "9": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "26.03%"
+                },
+                "LDP": "49.17%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "27.42%"
+                },
+                "LDP": "51.40%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u672a\u6765\u306e\u515a",
+                    "percentage": "20.56%"
+                },
+                "LDP": "53.49%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.24%"
+                },
+                "LDP": "42.49%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.88%"
+                },
+                "LDP": "53.86%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "39.25%"
+                },
+                "LDP": "45.83%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "35.43%"
+                },
+                "LDP": "33.57%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "30.74%"
+                },
+                "LDP": "19.89%"
+            }
+        },
+        "10": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "28.77%"
+                },
+                "LDP": "37.37%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "23.91%"
+                },
+                "LDP": "50.73%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "23.40%"
+                },
+                "LDP": "53.70%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.24%"
+                },
+                "LDP": "43.31%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "23.04%"
+                },
+                "LDP": "50.05%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "42.67%"
+                },
+                "LDP": "45.18%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.93%"
+                },
+                "LDP": "38.76%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "26.45%"
+                },
+                "LDP": "30.66%"
+            }
+        },
+        "11": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "25.88%"
+                },
+                "LDP": "44.90%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "18.64%"
+                },
+                "LDP": "56.06%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "19.26%"
+                },
+                "LDP": "45.48%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u65b0\u515a\u65e5\u672c",
+                    "percentage": "41.13%"
+                },
+                "LDP": "42.38%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "31.89%"
+                },
+                "LDP": "55.02%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.67%"
+                },
+                "LDP": "48.95%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "27.17%"
+                },
+                "LDP": "37.76%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "26.97%"
+                },
+                "LDP": "30.09%"
+            }
+        },
+        "12": {
+            "2017": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "51.64%"
+                },
+                "LDP": "0"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "41.64%"
+                },
+                "LDP": "0"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "51.43%"
+                },
+                "LDP": "0"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "45.20%"
+                },
+                "LDP": "0"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "43.18%"
+                },
+                "LDP": "0"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "44.05%"
+                },
+                "LDP": "0"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "29.31%"
+                },
+                "LDP": "40.73%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "27.87%"
+                },
+                "LDP": "28.41%"
+            }
+        },
+        "13": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "30.68%"
+                },
+                "LDP": "55.23%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "21.14%"
+                },
+                "LDP": "55.55%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "20.40%"
+                },
+                "LDP": "50.31%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "44.90%"
+                },
+                "LDP": "43.70%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.38%"
+                },
+                "LDP": "53.82%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "43.58%"
+                },
+                "LDP": "42.61%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "24.60%"
+                },
+                "LDP": "42.04%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "35.02%"
+                },
+                "LDP": "32.30%"
+            }
+        },
+        "14": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "28.50%"
+                },
+                "LDP": "46.94%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.71%"
+                },
+                "LDP": "46.56%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "18.92%"
+                },
+                "LDP": "42.52%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.80%"
+                },
+                "LDP": "40.48%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "32.22%"
+                },
+                "LDP": "55.37%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "32.77%"
+                },
+                "LDP": "34.34%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u4fdd\u5b88\u515a",
+                    "percentage": "40.01%"
+                },
+                "LDP": "0"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "34.56%"
+                },
+                "LDP": "33.19%"
+            }
+        },
+        "15": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "31.67%"
+                },
+                "LDP": "45.55%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "41.29%"
+                },
+                "LDP": "39.99%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "36.93%"
+                },
+                "LDP": "31.04%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "42.39%"
+                },
+                "LDP": "32.28%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "35.18%"
+                },
+                "LDP": "54.36%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.02%"
+                },
+                "LDP": "35.43%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "28.83%"
+                },
+                "LDP": "28.08%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "27.73%"
+                },
+                "LDP": "36.43%"
+            }
+        },
+        "16": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "34.59%"
+                },
+                "LDP": "40.91%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "26.62%"
+                },
+                "LDP": "46.25%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "18.59%"
+                },
+                "LDP": "38.04%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.35%"
+                },
+                "LDP": "41.90%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.12%"
+                },
+                "LDP": "56.96%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "31.00%"
+                },
+                "LDP": "35.34%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "32.08%"
+                },
+                "LDP": "30.63%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "32.56%"
+                },
+                "LDP": "38.99%"
+            }
+        },
+        "17": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "22.47%"
+                },
+                "LDP": "57.95%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "21.85%"
+                },
+                "LDP": "59.34%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "18.99%"
+                },
+                "LDP": "55.12%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "39.64%"
+                },
+                "LDP": "51.37%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "26.27%"
+                },
+                "LDP": "62.96%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "28.32%"
+                },
+                "LDP": "62.00%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "29.36%"
+                },
+                "LDP": "37.61%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "29.40%"
+                },
+                "LDP": "34.01%"
+            }
+        },
+        "18": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "40.73%"
+                },
+                "LDP": "40.29%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "38.79%"
+                },
+                "LDP": "45.81%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "28.33%"
+                },
+                "LDP": "32.22%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "59.46%"
+                },
+                "LDP": "32.13%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.43%"
+                },
+                "LDP": "44.50%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "58.35%"
+                },
+                "LDP": "34.94%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "56.15%"
+                },
+                "LDP": "24.34%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "62.45%"
+                },
+                "LDP": "12.59%"
+            }
+        },
+        "19": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "38.71%"
+                },
+                "LDP": "41.14%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.34%"
+                },
+                "LDP": "40.96%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "27.64%"
+                },
+                "LDP": "34.38%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "55.04%"
+                },
+                "LDP": "34.14%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "44.45%"
+                },
+                "LDP": "46.26%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "52.94%"
+                },
+                "LDP": "34.43%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "45.41%"
+                },
+                "LDP": "27.92%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "32.52%"
+                },
+                "LDP": "20.24%"
+            }
+        },
+        "20": {
+            "2017": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "26.75%"
+                },
+                "LDP": "49.89%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "24.28%"
+                },
+                "LDP": "52.13%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "25.35%"
+                },
+                "LDP": "40.41%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "51.23%"
+                },
+                "LDP": "35.98%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "42.68%"
+                },
+                "LDP": "44.55%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "50.69%"
+                },
+                "LDP": "37.24%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "39.46%"
+                },
+                "LDP": "0"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "26.99%"
+                },
+                "LDP": "26.52%"
+            }
+        },
+        "21": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "40.97%"
+                },
+                "LDP": "39.14%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "40.78%"
+                },
+                "LDP": "41.59%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "36.45%"
+                },
+                "LDP": "30.84%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "57.62%"
+                },
+                "LDP": "32.21%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "41.62%"
+                },
+                "LDP": "46.07%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "39.19%"
+                },
+                "LDP": "34.60%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.49%"
+                },
+                "LDP": "35.13%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "28.91%"
+                },
+                "LDP": "25.71%"
+            }
+        },
+        "22": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "35.76%"
+                },
+                "LDP": "43.39%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "31.50%"
+                },
+                "LDP": "45.96%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "23.00%"
+                },
+                "LDP": "40.04%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "50.58%"
+                },
+                "LDP": "38.30%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.21%"
+                },
+                "LDP": "52.10%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "45.91%"
+                },
+                "LDP": "42.46%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "38.85%"
+                },
+                "LDP": "29.01%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "29.57%"
+                },
+                "LDP": "21.14%"
+            }
+        },
+        "23": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "31.09%"
+                },
+                "LDP": "44.95%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "25.04%"
+                },
+                "LDP": "41.16%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "22.12%"
+                },
+                "LDP": "30.16%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "54.40%"
+                },
+                "LDP": "35.07%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "36.11%"
+                },
+                "LDP": "54.72%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "42.34%"
+                },
+                "LDP": "48.47%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.43%"
+                },
+                "LDP": "39.58%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "21.13%"
+                },
+                "LDP": "38.37%"
+            }
+        },
+        "24": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "24.77%"
+                },
+                "LDP": "49.32%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "29.21%"
+                },
+                "LDP": "51.69%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "22.13%"
+                },
+                "LDP": "44.22%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "49.45%"
+                },
+                "LDP": "40.52%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.59%"
+                },
+                "LDP": "53.15%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "43.43%"
+                },
+                "LDP": "44.29%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "44.49%"
+                },
+                "LDP": "39.81%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "29.31%"
+                },
+                "LDP": "33.99%"
+            }
+        },
+        "25": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "20.76%"
+                },
+                "LDP": "51.81%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "20.13%"
+                },
+                "LDP": "61.62%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "15.55%"
+                },
+                "LDP": "54.35%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u56fd\u6c11\u65b0\u515a",
+                    "percentage": "23.93%"
+                },
+                "LDP": "52.53%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.04%"
+                },
+                "LDP": "56.97%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "40.93%"
+                },
+                "LDP": "46.28%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.64%"
+                },
+                "LDP": "48.90%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "35.22%"
+                },
+                "LDP": "40.98%"
             }
         }
     },
@@ -5166,348 +6268,1030 @@
             "2017": {
                 "second-party": {
                     "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
-                    "percentage": "53.11%"
+                    "percentage": "36.20%"
                 },
-                "LDP": "46.89%"
+                "LDP": "47.82%"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "42.87%"
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "31.31%"
                 },
-                "LDP": "46.97%"
+                "LDP": "52.37%"
             },
             "2012": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.56%"
+                    "percentage": "20.72%"
                 },
-                "LDP": "44.07%"
+                "LDP": "41.20%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "60.15%"
+                    "percentage": "48.09%"
                 },
-                "LDP": "32.18%"
+                "LDP": "41.91%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.67%"
+                    "percentage": "34.45%"
                 },
-                "LDP": "42.85%"
+                "LDP": "58.27%"
             },
             "2003": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "51.08%"
+                    "percentage": "41.56%"
                 },
-                "LDP": "41.15%"
+                "LDP": "47.56%"
             },
             "2000": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.13%"
+                    "percentage": "40.06%"
                 },
-                "LDP": "43.16%"
+                "LDP": "35.54%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "39.34%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "26.02%"
                 },
-                "LDP": "42.66%"
+                "LDP": "26.43%"
             }
         },
         "2": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "51.60%"
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "21.87%"
                 },
-                "LDP": "43.10%"
+                "LDP": "57.11%"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "42.90%"
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "21.69%"
                 },
-                "LDP": "42.96%"
+                "LDP": "67.71%"
             },
             "2012": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "38.74%"
+                    "percentage": "29.92%"
                 },
-                "LDP": "45.52%"
+                "LDP": "57.93%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "52.26%"
+                    "percentage": "46.32%"
                 },
-                "LDP": "37.04%"
+                "LDP": "46.52%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "44.33%"
+                    "percentage": "33.46%"
                 },
-                "LDP": "49.68%"
+                "LDP": "58.41%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "25.79%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "40.28%"
                 },
-                "LDP": "43.93%"
+                "LDP": "49.80%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.09%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "41.18%"
                 },
-                "LDP": "39.74%"
+                "LDP": "42.30%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "38.54%"
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "30.16%"
                 },
-                "LDP": "40.77%"
+                "LDP": "32.25%"
             }
         },
         "3": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.15%"
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "22.98%"
                 },
-                "LDP": "49.12%"
+                "LDP": "50.22%"
             },
             "2014": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.13%"
+                    "percentage": "24.62%"
                 },
-                "LDP": "44.20%"
+                "LDP": "50.19%"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "41.39%"
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "17.21%"
                 },
-                "LDP": "50.16%"
+                "LDP": "36.98%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "66.03%"
+                    "percentage": "48.45%"
                 },
-                "LDP": "32.83%"
+                "LDP": "34.49%"
             },
             "2005": {
                 "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "32.82%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.92%"
                 },
-                "LDP": "50.14%"
+                "LDP": "53.20%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "36.16%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "39.67%"
                 },
-                "LDP": "55.91%"
+                "LDP": "44.12%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u81ea\u7531\u515a",
-                    "percentage": "26.26%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "26.57%"
                 },
-                "LDP": "51.15%"
+                "LDP": "29.27%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "29.89%"
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "31.31%"
                 },
-                "LDP": "36.03%"
+                "LDP": "29.41%"
             }
         },
         "4": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "56.27%"
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "34.76%"
                 },
-                "LDP": "43.73%"
+                "LDP": "28.89%"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "44.85%"
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "48.12%"
                 },
-                "LDP": "46.70%"
+                "LDP": "32.49%"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.15%"
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "48.70%"
                 },
-                "LDP": "42.59%"
+                "LDP": "27.84%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "62.51%"
+                    "percentage": "37.97%"
                 },
-                "LDP": "35.90%"
+                "LDP": "27.28%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "50.52%"
+                    "percentage": "34.40%"
                 },
-                "LDP": "41.34%"
+                "LDP": "52.54%"
             },
             "2003": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "53.45%"
+                    "percentage": "46.88%"
                 },
-                "LDP": "39.58%"
+                "LDP": "38.89%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u81ea\u7531\u515a",
-                    "percentage": "31.98%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.65%"
                 },
-                "LDP": "33.21%"
+                "LDP": "26.70%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "30.48%"
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "20.95%"
                 },
-                "LDP": "41.60%"
+                "LDP": "25.09%"
             }
         },
         "5": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "44.94%"
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "28.84%"
                 },
-                "LDP": "51.82%"
+                "LDP": "51.61%"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u751f\u6d3b\u306e\u515a",
-                    "percentage": "33.49%"
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "23.95%"
                 },
-                "LDP": "57.33%"
+                "LDP": "47.76%"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "29.26%"
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "17.63%"
                 },
-                "LDP": "45.73%"
+                "LDP": "40.76%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.11%"
+                    "percentage": "50.94%"
                 },
-                "LDP": "41.14%"
+                "LDP": "37.95%"
             },
             "2005": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "51.16%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "38.68%"
                 },
-                "LDP": "40.25%"
+                "LDP": "51.08%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.14%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "50.33%"
                 },
-                "LDP": "31.02%"
+                "LDP": "37.17%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "24.99%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "51.93%"
                 },
-                "LDP": "68.62%"
+                "LDP": "28.54%"
             },
             "1996": {
                 "second-party": {
                     "party": "\u65b0\u9032\u515a",
-                    "percentage": "38.13%"
+                    "percentage": "35.86%"
                 },
-                "LDP": "48.85%"
+                "LDP": "25.91%"
             }
         },
         "6": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.41%"
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "44.59%"
                 },
-                "LDP": "50.59%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "39.55%"
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "39.85%"
                 },
-                "LDP": "52.70%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "37.15%"
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "37.37%"
                 },
-                "LDP": "55.08%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "55.35%"
+                    "percentage": "51.76%"
+                },
+                "LDP": "0"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "49.89%"
+                },
+                "LDP": "0"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u516c\u660e\u515a",
+                    "percentage": "36.71%"
+                },
+                "LDP": "0"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.18%"
+                },
+                "LDP": "0"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.98%"
+                },
+                "LDP": "25.90%"
+            }
+        },
+        "7": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "39.95%"
+                },
+                "LDP": "47.00%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "22.17%"
+                },
+                "LDP": "44.38%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "23.22%"
+                },
+                "LDP": "42.13%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "57.19%"
+                },
+                "LDP": "39.99%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "36.39%"
+                },
+                "LDP": "57.06%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "46.58%"
+                },
+                "LDP": "45.31%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.31%"
+                },
+                "LDP": "32.26%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "24.29%"
+                },
+                "LDP": "33.84%"
+            }
+        },
+        "8": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "54.18%"
+                },
+                "LDP": "33.67%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "54.49%"
+                },
+                "LDP": "34.25%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "54.11%"
+                },
+                "LDP": "25.78%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "49.14%"
+                },
+                "LDP": "20.79%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "34.83%"
+                },
+                "LDP": "29.41%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "38.68%"
+                },
+                "LDP": "18.89%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u7121\u6240\u5c5e\u306e\u4f1a",
+                    "percentage": "44.54%"
+                },
+                "LDP": "26.88%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "35.93%"
+                },
+                "LDP": "21.60%"
+            }
+        },
+        "9": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "41.30%"
+                },
+                "LDP": "40.32%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.87%"
+                },
+                "LDP": "35.20%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "36.85%"
+                },
+                "LDP": "31.89%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "63.54%"
+                },
+                "LDP": "24.61%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "44.51%"
+                },
+                "LDP": "46.55%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "50.33%"
+                },
+                "LDP": "36.80%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "52.62%"
+                },
+                "LDP": "27.90%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "35.07%"
+                },
+                "LDP": "24.51%"
+            }
+        },
+        "10": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "26.25%"
+                },
+                "LDP": "51.46%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.48%"
+                },
+                "LDP": "52.20%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "21.86%"
+                },
+                "LDP": "37.47%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "49.26%"
+                },
+                "LDP": "38.22%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "31.27%"
+                },
+                "LDP": "56.44%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.63%"
+                },
+                "LDP": "48.12%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "36.89%"
+                },
+                "LDP": "39.58%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "31.21%"
+                },
+                "LDP": "30.60%"
+            }
+        },
+        "11": {
+            "2017": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "11.03%"
+                },
+                "LDP": "78.02%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "16.72%"
+                },
+                "LDP": "83.28%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "10.89%"
+                },
+                "LDP": "79.86%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "36.56%"
+                },
+                "LDP": "57.09%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "18.77%"
+                },
+                "LDP": "73.16%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "19.76%"
+                },
+                "LDP": "74.42%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "18.74%"
+                },
+                "LDP": "69.03%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "26.17%"
+                },
+                "LDP": "58.16%"
+            }
+        },
+        "12": {
+            "2017": {
+                "second-party": {
+                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
+                    "percentage": "43.20%"
+                },
+                "LDP": "41.89%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "42.08%"
+                },
+                "LDP": "42.44%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u672a\u6765\u306e\u515a",
+                    "percentage": "23.63%"
+                },
+                "LDP": "34.06%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "45.88%"
+                },
+                "LDP": "28.86%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "32.69%"
+                },
+                "LDP": "46.92%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "39.40%"
+                },
+                "LDP": "38.33%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "28.10%"
+                },
+                "LDP": "26.32%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "30.15%"
+                },
+                "LDP": "30.66%"
+            }
+        },
+        "13": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "27.70%"
+                },
+                "LDP": "56.14%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u7dad\u65b0\u306e\u515a",
+                    "percentage": "25.06%"
+                },
+                "LDP": "60.47%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "19.54%"
+                },
+                "LDP": "42.96%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "46.10%"
+                },
+                "LDP": "45.45%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.88%"
+                },
+                "LDP": "61.07%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "35.22%"
+                },
+                "LDP": "56.85%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.78%"
+                },
+                "LDP": "45.78%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "34.03%"
+                },
+                "LDP": "33.22%"
+            }
+        },
+        "14": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "41.39%"
+                },
+                "LDP": "46.48%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "36.03%"
+                },
+                "LDP": "47.22%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "25.09%"
+                },
+                "LDP": "40.12%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "55.40%"
+                },
+                "LDP": "36.77%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "40.39%"
+                },
+                "LDP": "50.95%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "43.68%"
+                },
+                "LDP": "36.75%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u81ea\u7531\u515a",
+                    "percentage": "26.82%"
+                },
+                "LDP": "26.38%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "36.90%"
+                },
+                "LDP": "23.37%"
+            }
+        },
+        "15": {
+            "2017": {
+                "second-party": {
+                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
+                    "percentage": "16.20%"
+                },
+                "LDP": "67.63%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "16.85%"
+                },
+                "LDP": "66.79%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "20.02%"
+                },
+                "LDP": "79.98%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "40.52%"
+                },
+                "LDP": "53.25%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "28.55%"
+                },
+                "LDP": "63.88%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "30.95%"
+                },
+                "LDP": "59.89%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "22.51%"
+                },
+                "LDP": "47.44%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "30.72%"
+                },
+                "LDP": "36.44%"
+            }
+        },
+        "16": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "40.81%"
+                },
+                "LDP": "46.91%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "45.83%"
+                },
+                "LDP": "45.17%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.34%"
+                },
+                "LDP": "40.66%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "58.80%"
                 },
                 "LDP": "39.74%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "50.17%"
+                    "percentage": "32.74%"
                 },
-                "LDP": "44.94%"
+                "LDP": "59.26%"
             },
             "2003": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "40.65%"
+                    "percentage": "36.73%"
                 },
-                "LDP": "29.27%"
+                "LDP": "55.36%"
             },
             "2000": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.26%"
+                    "percentage": "27.78%"
                 },
-                "LDP": "47.07%"
+                "LDP": "52.15%"
+            },
+            "1996": {
+                "second-party": {
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "21.02%"
+                },
+                "LDP": "51.15%"
+            }
+        },
+        "17": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "36.55%"
+                },
+                "LDP": "51.27%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "35.96%"
+                },
+                "LDP": "53.42%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "21.49%"
+                },
+                "LDP": "38.76%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "47.76%"
+                },
+                "LDP": "36.18%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "32.13%"
+                },
+                "LDP": "60.69%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.73%"
+                },
+                "LDP": "57.34%"
+            },
+            "2000": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "34.30%"
+                },
+                "LDP": "56.44%"
             },
             "1996": {
                 "second-party": {
                     "party": "\u7121\u6240\u5c5e",
-                    "percentage": "46.41%"
+                    "percentage": "25.08%"
                 },
-                "LDP": "48.33%"
+                "LDP": "44.75%"
+            }
+        },
+        "18": {
+            "2017": {
+                "second-party": {
+                    "party": "\u5e0c\u671b\u306e\u515a",
+                    "percentage": "30.36%"
+                },
+                "LDP": "51.14%"
+            },
+            "2014": {
+                "second-party": {
+                    "party": "\u6b21\u4e16\u4ee3\u306e\u515a",
+                    "percentage": "27.20%"
+                },
+                "LDP": "39.95%"
+            },
+            "2012": {
+                "second-party": {
+                    "party": "\u307f\u3093\u306a\u306e\u515a",
+                    "percentage": "21.81%"
+                },
+                "LDP": "40.92%"
+            },
+            "2009": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "48.82%"
+                },
+                "LDP": "36.41%"
+            },
+            "2005": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.44%"
+                },
+                "LDP": "53.74%"
+            },
+            "2003": {
+                "second-party": {
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "37.97%"
+                },
+                "LDP": "33.95%"
             }
         }
     },
@@ -6093,7 +7877,7 @@
                     "party": "\u65b0\u9032\u515a",
                     "percentage": "49.36%"
                 },
-                "LDP": "10.42%"
+                "LDP": "0"
             }
         },
         "2": {
@@ -6379,349 +8163,161 @@
         "1": {
             "2017": {
                 "second-party": {
-                    "party": "\u7acb\u61b2\u6c11\u4e3b\u515a",
-                    "percentage": "53.11%"
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "44.34%"
                 },
-                "LDP": "46.89%"
+                "LDP": "43.87%"
             },
             "2014": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "42.87%"
+                    "percentage": "43.96%"
                 },
-                "LDP": "46.97%"
+                "LDP": "43.50%"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.56%"
+                    "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
+                    "percentage": "27.29%"
                 },
-                "LDP": "44.07%"
+                "LDP": "43.56%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "60.15%"
+                    "percentage": "60.24%"
                 },
-                "LDP": "32.18%"
+                "LDP": "30.89%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.67%"
+                    "percentage": "47.53%"
                 },
-                "LDP": "42.85%"
+                "LDP": "44.24%"
             },
             "2003": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "51.08%"
+                    "percentage": "54.90%"
                 },
-                "LDP": "41.15%"
+                "LDP": "34.71%"
             },
             "2000": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.13%"
+                    "percentage": "41.96%"
                 },
-                "LDP": "43.16%"
+                "LDP": "37.81%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "39.34%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.79%"
                 },
-                "LDP": "42.66%"
+                "LDP": "38.88%"
             }
         },
         "2": {
             "2017": {
                 "second-party": {
                     "party": "\u7121\u6240\u5c5e",
-                    "percentage": "51.60%"
+                    "percentage": "40.12%"
                 },
-                "LDP": "43.10%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "42.90%"
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "50.72%"
                 },
-                "LDP": "42.96%"
+                "LDP": "40.59%"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "38.74%"
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "40.45%"
                 },
-                "LDP": "45.52%"
+                "LDP": "35.81%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "52.26%"
+                    "percentage": "37.55%"
                 },
-                "LDP": "37.04%"
+                "LDP": "29.64%"
             },
             "2005": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "44.33%"
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "38.04%"
                 },
-                "LDP": "49.68%"
+                "LDP": "37.48%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "25.79%"
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "22.91%"
                 },
-                "LDP": "43.93%"
+                "LDP": "77.09%"
             },
             "2000": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.09%"
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "15.47%"
                 },
-                "LDP": "39.74%"
+                "LDP": "75.02%"
             },
             "1996": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "38.54%"
+                    "party": "\u65b0\u9032\u515a",
+                    "percentage": "23.07%"
                 },
-                "LDP": "40.77%"
+                "LDP": "65.65%"
             }
         },
         "3": {
             "2017": {
                 "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.15%"
+                    "party": "\u6c11\u4e3b\u515a",
+                    "percentage": "33.39%"
                 },
-                "LDP": "49.12%"
+                "LDP": "33.27%"
             },
             "2014": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.13%"
+                    "percentage": "62.66%"
                 },
-                "LDP": "44.20%"
+                "LDP": "35.31%"
             },
             "2012": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "41.39%"
+                    "party": "\u7121\u6240\u5c5e",
+                    "percentage": "36.03%"
                 },
-                "LDP": "50.16%"
+                "LDP": "29.04%"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "66.03%"
+                    "percentage": "39.76%"
                 },
-                "LDP": "32.83%"
-            },
-            "2005": {
-                "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "32.82%"
-                },
-                "LDP": "50.14%"
-            },
-            "2003": {
-                "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "36.16%"
-                },
-                "LDP": "55.91%"
-            },
-            "2000": {
-                "second-party": {
-                    "party": "\u81ea\u7531\u515a",
-                    "percentage": "26.26%"
-                },
-                "LDP": "51.15%"
-            },
-            "1996": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "29.89%"
-                },
-                "LDP": "36.03%"
-            }
-        },
-        "4": {
-            "2017": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "56.27%"
-                },
-                "LDP": "43.73%"
-            },
-            "2014": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "44.85%"
-                },
-                "LDP": "46.70%"
-            },
-            "2012": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "35.15%"
-                },
-                "LDP": "42.59%"
-            },
-            "2009": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "62.51%"
-                },
-                "LDP": "35.90%"
+                "LDP": "52.89%"
             },
             "2005": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "50.52%"
+                    "percentage": "35.24%"
                 },
-                "LDP": "41.34%"
+                "LDP": "55.79%"
             },
             "2003": {
                 "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "53.45%"
+                    "party": "\u65e5\u672c\u5171\u7523\u515a",
+                    "percentage": "25.05%"
                 },
-                "LDP": "39.58%"
-            },
-            "2000": {
-                "second-party": {
-                    "party": "\u81ea\u7531\u515a",
-                    "percentage": "31.98%"
-                },
-                "LDP": "33.21%"
-            },
-            "1996": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "30.48%"
-                },
-                "LDP": "41.60%"
-            }
-        },
-        "5": {
-            "2017": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "44.94%"
-                },
-                "LDP": "51.82%"
-            },
-            "2014": {
-                "second-party": {
-                    "party": "\u751f\u6d3b\u306e\u515a",
-                    "percentage": "33.49%"
-                },
-                "LDP": "57.33%"
-            },
-            "2012": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "29.26%"
-                },
-                "LDP": "45.73%"
-            },
-            "2009": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.11%"
-                },
-                "LDP": "41.14%"
-            },
-            "2005": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "51.16%"
-                },
-                "LDP": "40.25%"
-            },
-            "2003": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.14%"
-                },
-                "LDP": "31.02%"
-            },
-            "2000": {
-                "second-party": {
-                    "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
-                    "percentage": "24.99%"
-                },
-                "LDP": "68.62%"
-            },
-            "1996": {
-                "second-party": {
-                    "party": "\u65b0\u9032\u515a",
-                    "percentage": "38.13%"
-                },
-                "LDP": "48.85%"
-            }
-        },
-        "6": {
-            "2017": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "49.41%"
-                },
-                "LDP": "50.59%"
-            },
-            "2014": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "39.55%"
-                },
-                "LDP": "52.70%"
-            },
-            "2012": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "37.15%"
-                },
-                "LDP": "55.08%"
-            },
-            "2009": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "55.35%"
-                },
-                "LDP": "39.74%"
-            },
-            "2005": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "50.17%"
-                },
-                "LDP": "44.94%"
-            },
-            "2003": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "40.65%"
-                },
-                "LDP": "29.27%"
-            },
-            "2000": {
-                "second-party": {
-                    "party": "\u6c11\u4e3b\u515a",
-                    "percentage": "49.26%"
-                },
-                "LDP": "47.07%"
-            },
-            "1996": {
-                "second-party": {
-                    "party": "\u7121\u6240\u5c5e",
-                    "percentage": "46.41%"
-                },
-                "LDP": "48.33%"
+                "LDP": "69.22%"
             }
         }
     },
@@ -6897,7 +8493,7 @@
                     "party": "\u65b0\u9032\u515a",
                     "percentage": "62.61%"
                 },
-                "LDP": "9.91%"
+                "LDP": "0"
             }
         },
         "4": {
@@ -7699,7 +9295,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "46.78%"
                 },
-                "LDP": "4.63%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -7840,7 +9436,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "42.08%"
                 },
-                "LDP": "0.93%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -8014,7 +9610,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "35.10%"
                 },
-                "LDP": "2.99%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -8130,7 +9726,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "38.97%"
                 },
-                "LDP": "0.65%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -8297,14 +9893,14 @@
                     "party": "\u4fdd\u5b88\u65b0\u515a",
                     "percentage": "44.59%"
                 },
-                "LDP": "6.95%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u4fdd\u5b88\u515a",
                     "percentage": "53.16%"
                 },
-                "LDP": "1.71%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -8355,7 +9951,7 @@
                     "party": "\u4fdd\u5b88\u65b0\u515a",
                     "percentage": "45.63%"
                 },
-                "LDP": "9.07%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -8413,7 +10009,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "89.56%"
                 },
-                "LDP": "10.44%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -8777,7 +10373,7 @@
                     "party": "\u65b0\u9032\u515a",
                     "percentage": "55.36%"
                 },
-                "LDP": "10.34%"
+                "LDP": "0"
             }
         },
         "3": {
@@ -8937,7 +10533,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "46.17%"
                 },
-                "LDP": "9.30%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -9641,49 +11237,49 @@
                     "party": "\u516c\u660e\u515a",
                     "percentage": "54.10%"
                 },
-                "LDP": "10.47%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "57.21%"
                 },
-                "LDP": "42.79%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "53.19%"
                 },
-                "LDP": "21.23%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "44.67%"
                 },
-                "LDP": "2.48%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "49.38%"
                 },
-                "LDP": "15.34%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "46.33%"
                 },
-                "LDP": "15.89%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "46.10%"
                 },
-                "LDP": "16.23%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -9757,49 +11353,49 @@
                     "party": "\u516c\u660e\u515a",
                     "percentage": "51.48%"
                 },
-                "LDP": "5.36%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "57.53%"
                 },
-                "LDP": "42.47%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "53.80%"
                 },
-                "LDP": "22.47%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "46.74%"
                 },
-                "LDP": "1.97%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "47.67%"
                 },
-                "LDP": "17.36%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "42.88%"
                 },
-                "LDP": "17.50%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "37.28%"
                 },
-                "LDP": "5.20%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -9815,49 +11411,49 @@
                     "party": "\u516c\u660e\u515a",
                     "percentage": "61.00%"
                 },
-                "LDP": "39.00%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "56.35%"
                 },
-                "LDP": "18.40%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "59.56%"
                 },
-                "LDP": "17.73%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "43.30%"
                 },
-                "LDP": "3.61%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "52.70%"
                 },
-                "LDP": "12.25%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "49.37%"
                 },
-                "LDP": "14.03%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "49.69%"
                 },
-                "LDP": "16.16%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -9915,7 +11511,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "34.10%"
                 },
-                "LDP": "15.43%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -10031,7 +11627,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "37.88%"
                 },
-                "LDP": "3.95%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -10089,7 +11685,7 @@
                     "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
                     "percentage": "29.70%"
                 },
-                "LDP": "1.32%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -10140,7 +11736,7 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "58.31%"
                 },
-                "LDP": "4.29%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -10395,49 +11991,49 @@
                     "party": "\u516c\u660e\u515a",
                     "percentage": "54.04%"
                 },
-                "LDP": "45.96%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "43.19%"
                 },
-                "LDP": "14.77%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "50.81%"
                 },
-                "LDP": "10.41%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "48.05%"
                 },
-                "LDP": "2.13%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "51.46%"
                 },
-                "LDP": "12.47%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "46.12%"
                 },
-                "LDP": "14.46%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "39.11%"
                 },
-                "LDP": "29.76%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -10604,14 +12200,14 @@
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "47.21%"
                 },
-                "LDP": "9.37%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u4fdd\u5b88\u515a",
                     "percentage": "53.11%"
                 },
-                "LDP": "1.20%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -10687,49 +12283,49 @@
                     "party": "\u516c\u660e\u515a",
                     "percentage": "52.53%"
                 },
-                "LDP": "23.22%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "49.29%"
                 },
-                "LDP": "19.92%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "47.32%"
                 },
-                "LDP": "12.57%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
                     "party": "\u6c11\u4e3b\u515a",
                     "percentage": "48.94%"
                 },
-                "LDP": "1.97%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "48.08%"
                 },
-                "LDP": "14.12%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "43.21%"
                 },
-                "LDP": "15.29%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "43.26%"
                 },
-                "LDP": "20.49%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -10838,14 +12434,14 @@
                     "party": "\u4fdd\u5b88\u65b0\u515a",
                     "percentage": "55.39%"
                 },
-                "LDP": "8.98%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u4fdd\u5b88\u515a",
                     "percentage": "64.90%"
                 },
-                "LDP": "11.81%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -10961,7 +12557,7 @@
                     "party": "\u4fdd\u5b88\u515a",
                     "percentage": "33.81%"
                 },
-                "LDP": "2.05%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -11019,7 +12615,7 @@
                     "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
                     "percentage": "62.82%"
                 },
-                "LDP": "5.15%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -11035,49 +12631,49 @@
                     "party": "\u516c\u660e\u515a",
                     "percentage": "63.56%"
                 },
-                "LDP": "36.44%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "60.88%"
                 },
-                "LDP": "39.12%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "46.64%"
                 },
-                "LDP": "10.83%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
                     "party": "\u65b0\u515a\u65e5\u672c",
                     "percentage": "42.19%"
                 },
-                "LDP": "1.01%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "46.35%"
                 },
-                "LDP": "5.91%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "44.10%"
                 },
-                "LDP": "8.34%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "35.17%"
                 },
-                "LDP": "4.68%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -11200,7 +12796,7 @@
                     "party": "\u65b0\u9032\u515a",
                     "percentage": "43.10%"
                 },
-                "LDP": "6.32%"
+                "LDP": "0"
             }
         },
         "11": {
@@ -11274,7 +12870,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "47.63%"
                 },
-                "LDP": "9.12%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
@@ -11596,7 +13192,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "45.76%"
                 },
-                "LDP": "18.50%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -11705,14 +13301,14 @@
                     "party": "\u4fdd\u5b88\u65b0\u515a",
                     "percentage": "78.37%"
                 },
-                "LDP": "21.63%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u4fdd\u5b88\u515a",
                     "percentage": "63.08%"
                 },
-                "LDP": "11.62%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -11779,7 +13375,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "62.47%"
                 },
-                "LDP": "8.77%"
+                "LDP": "0"
             }
         },
         "2": {
@@ -12098,7 +13694,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "38.92%"
                 },
-                "LDP": "10.09%"
+                "LDP": "0"
             },
             "2014": {
                 "second-party": {
@@ -12592,7 +14188,7 @@
                     "party": "\u56fd\u6c11\u65b0\u515a",
                     "percentage": "41.53%"
                 },
-                "LDP": "1.28%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
@@ -13537,7 +15133,7 @@
                     "party": "\u65e5\u672c\u5171\u7523\u515a",
                     "percentage": "28.57%"
                 },
-                "LDP": "0.58%"
+                "LDP": "0"
             }
         },
         "2": {
@@ -13657,7 +15253,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "36.34%"
                 },
-                "LDP": "2.97%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
@@ -13954,7 +15550,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "41.57%"
                 },
-                "LDP": "5.22%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
@@ -14163,7 +15759,7 @@
                     "party": "\u65b0\u9032\u515a",
                     "percentage": "42.60%"
                 },
-                "LDP": "21.66%"
+                "LDP": "0"
             }
         },
         "10": {
@@ -14786,7 +16382,7 @@
                     "party": "\u4fdd\u5b88\u515a",
                     "percentage": "60.39%"
                 },
-                "LDP": "4.20%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
@@ -14867,14 +16463,14 @@
                     "party": "\u6b21\u4e16\u4ee3\u306e\u515a",
                     "percentage": "75.92%"
                 },
-                "LDP": "24.08%"
+                "LDP": "0"
             },
             "2012": {
                 "second-party": {
                     "party": "\u65e5\u672c\u7dad\u65b0\u306e\u4f1a",
                     "percentage": "65.92%"
                 },
-                "LDP": "10.62%"
+                "LDP": "0"
             },
             "2009": {
                 "second-party": {
@@ -14909,7 +16505,7 @@
                     "party": "\u65b0\u515a\u3055\u304d\u304c\u3051",
                     "percentage": "58.96%"
                 },
-                "LDP": "4.27%"
+                "LDP": "0"
             }
         },
         "5": {
@@ -15152,7 +16748,7 @@
                     "party": "\u793e\u4f1a\u6c11\u4e3b\u515a",
                     "percentage": "51.10%"
                 },
-                "LDP": "2.82%"
+                "LDP": "0"
             }
         }
     },
@@ -15184,7 +16780,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "48.30%"
                 },
-                "LDP": "1.64%"
+                "LDP": "0"
             },
             "2005": {
                 "second-party": {
@@ -15256,7 +16852,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "43.63%"
                 },
-                "LDP": "2.81%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -15314,7 +16910,7 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "63.17%"
                 },
-                "LDP": "5.75%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
@@ -15652,21 +17248,21 @@
                     "party": "\u7121\u6240\u5c5e",
                     "percentage": "43.78%"
                 },
-                "LDP": "1.40%"
+                "LDP": "0"
             },
             "2003": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "37.05%"
                 },
-                "LDP": "12.40%"
+                "LDP": "0"
             },
             "2000": {
                 "second-party": {
                     "party": "\u516c\u660e\u515a",
                     "percentage": "52.55%"
                 },
-                "LDP": "16.55%"
+                "LDP": "0"
             },
             "1996": {
                 "second-party": {
