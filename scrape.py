@@ -45,7 +45,10 @@ def find_correct_tables(tables,prefecture):
                         for j in range(2,len(lines)):
                             temp, ldp_percentage = extract_line_data(lines[j])
                             if(temp == "自由民主党"):
+
                                 break
+                        # if ldp is not there set percentage to 0
+                        ldp_percentage = 0
                     # format data into dictionary
                     prefecture = format_data(years[i],party,percentage,ldp_percentage,prefecture)
                     #needed for year index
