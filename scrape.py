@@ -252,7 +252,7 @@ def get_party_data(party):
     # file.write(json.dumps(data_swapped, sort_keys=False, indent=4))
     # file.close
 
-    gen_csv(data_swapped,external=True,title=(party),filename='./results/'+party+'.csv')
+    gen_csv(data_swapped,external=True,title=('Prefecture','District','year',party),filename='./results/'+party+'.csv')
 
     return data
 
